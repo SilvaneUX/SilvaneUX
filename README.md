@@ -10,5 +10,11 @@ You can click the Preview link to take a look at your changes.
 --->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilvaneUX&show_icons=true&theme=bear)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvaneUX&theme=bear)
-[![trophy](https://github-profile-trophy.vercel.app/?username=SilvaneUX&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SilvaneUX&show_icons=true&theme=bear" />
+</a>
+<a href="https://github.com/anuraghazra/convoychat">
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvaneUX&theme=bear&layout=compact&langs_count=10&card_width=320" />
+</a>
 
