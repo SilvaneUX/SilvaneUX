@@ -9,6 +9,6 @@ SilvaneUX/SilvaneUX is a ✨ special ✨ repository because its `README.md` (thi
 You can click the Preview link to take a look at your changes.
 --->
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SilvaneUX&show_icons=true&theme=bear)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvaneUX&theme=bear)]
-[![trophy](https://github-profile-trophy.vercel.app/?username=SilvaneUX&title=The-Timeless&them=radical)](https://github.com/ryo-ma/github-profile-trophy)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvaneUX&theme=bear)
+[![trophy](https://github-profile-trophy.vercel.app/?username=SilvaneUX&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
