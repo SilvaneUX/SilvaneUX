@@ -18,7 +18,7 @@ You can click the Preview link to take a look at your changes.
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SilvaneUX&show_icons=true&theme=bear" />
 </a>
 <a href="https://github.com/SilvaneUX/">
-  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvaneUX&theme=bear&layout=compact&langs_count=10&card_width=350" />
+  <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SilvaneUX&theme=bear&layout=compact&langs_count=10&card_width=380" />
 </a>
 <br>
 <br>
