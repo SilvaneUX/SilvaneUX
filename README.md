@@ -2,7 +2,7 @@
 - 👀 I’m interested in Game, AI, Multiplatform, WEB, OS, Low Level Programing languange, Computer Hardware
 - 🌱 I’m currently learning Flutter
 - 🤝🏼 I’m looking to ~collaborate~ learn on AI Project, OS making, Programing languange making
-- 🤙🏼 How to reach me are [Inside Here](cutt.ly/sux)
+- 🤙🏼 Reach me [Here](cutt.ly/sux)
 
 <!---
 SilvaneUX/SilvaneUX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
