@@ -1,5 +1,5 @@
 - 👋 Hi, I’m ~Legend~ @SilvaneUX a.k.a Silvanus Prihantono.
-- 👀 I’m interested in Game, AI, WEB, OS, Programing languange maker,
+- 👀 I’m interested in Game, AI, Multiplatform, WEB, OS, Low Level Programing languange, Computer Hardware
 - 🌱 I’m currently learning Flutter
 - 🤝🏼 I’m looking to ~collaborate~ learn on AI Project, OS making, Programing languange making
 - 🤙🏼 How to reach me are [Inside Here](cutt.ly/sux)
