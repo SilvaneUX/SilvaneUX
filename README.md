@@ -29,13 +29,15 @@ Q: Is it okay if want to fix and/or improve existing code?
 <br>
 A: Absolutely yes.
 
- - Q: Is there any maximum PR to this repo?
- - A: Nope, there's no maximum PR. If you want to create another PR, please wait until your previous PR accepted or merged (which i do as fast as possible)
+Q: Is there any maximum PR to this repo?
+<br>
+A: Nope, there's no maximum PR. If you want to create another PR, please wait until your previous PR accepted or merged (which i do as fast as possible)
 
- - Q: I've made PR, now what?
- - A: Sit back and relax while waiting your PR to be accepted.
+Q: I've made PR, now what?
+<br>
+A: Sit back and relax while waiting your PR to be accepted.
 
-Do:
+<h3>Do: </h3>
 - Made Pull Request
 - Improve existing code
 - Add your project / old project
@@ -44,7 +46,7 @@ Do:
 - Became better version of yourself
 - Have Fun
 
-Dont:
+<h3>Dont:</h3>
 - Delete existing code
 - Create "Hello World" PR
 - Hack entire NASA Sattelite
