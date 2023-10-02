@@ -31,12 +31,10 @@ Q: Is it okay if want to fix and/or improve existing code?
 <br>
 A: Absolutely yes.
 <br>
-
 Q: Is there any maximum PR to this repo?
 <br>
 A: Nope, there's no maximum PR. If you want to create another PR, please wait until your previous PR accepted or merged (which i do as fast as possible)
 <br>
-
 Q: I've made PR, now what?
 <br>
 A: Sit back and relax while waiting your PR to be accepted.
