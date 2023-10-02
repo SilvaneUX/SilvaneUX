@@ -26,6 +26,7 @@ Q: Is there any minimum line of code to participate in this repository?
 A: Nope, there's no minimum nor maximum line of code but please dont just pull "Hello World".
 <br>
 
+
 Q: Is it okay if want to fix and/or improve existing code?
 <br>
 A: Absolutely yes.
