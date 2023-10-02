@@ -33,6 +33,23 @@ A: Nope, there's no maximum PR. If you want to create another PR, please wait un
 Q: I've made PR, now what?
 A: Sit back and relax while waiting your PR to be accepted.
 
+Do:
+- Made Pull Request
+- Improve existing code
+- Add your project / old project
+- Be Creative
+- Add yourself to CONTRIBUTE.md file
+- Became better version of yourself
+- Have Fun
+
+Dont:
+- Delete existing code
+- Create "Hello World" PR
+- Hack entire NASA Sattelite
+- Evolve backwards
+- Be Sad
+
+
 <h1>My Github Stats</h1>
 <a href="https://github.com/SilvaneUX/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SilvaneUX&show_icons=true&theme=bear" />
