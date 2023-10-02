@@ -28,6 +28,7 @@ A: Nope, there's no minimum nor maximum line of code but please dont just pull "
 Q: Is it okay if want to fix and/or improve existing code?
 <br>
 A: Absolutely yes.
+<br>
 
 Q: Is there any maximum PR to this repo?
 <br>
