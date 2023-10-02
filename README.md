@@ -24,6 +24,7 @@ Are you interested to participate in Hacktoberfest? Well, you can participate [H
 Q: Is there any minimum line of code to participate in this repository?
 <br>
 A: Nope, there's no minimum nor maximum line of code but please dont just pull "Hello World".
+<br>
 
 Q: Is it okay if want to fix and/or improve existing code?
 <br>
@@ -33,10 +34,12 @@ A: Absolutely yes.
 Q: Is there any maximum PR to this repo?
 <br>
 A: Nope, there's no maximum PR. If you want to create another PR, please wait until your previous PR accepted or merged (which i do as fast as possible)
+<br>
 
 Q: I've made PR, now what?
 <br>
 A: Sit back and relax while waiting your PR to be accepted.
+<br>
 
 <h3>Do: </h3>
 
