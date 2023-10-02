@@ -1,3 +1,4 @@
+<h1>Intro</h1>
 - 👋 Hi, I’m ~Legend~ @SilvaneUX a.k.a Silvanus Prihantono.
 - 👀 I’m interested in Game, AI, Multiplatform, WEB, OS, Low Level Programing languange, Computer Hardware
 - 🌱 I’m currently learning Flutter
@@ -18,6 +19,8 @@ You can click the Preview link to take a look at your changes.
 
 [HERE](https://github.com/SilvaneUX/donut-test)
 
+
+<h1>My Github Stats</h1>
 <a href="https://github.com/SilvaneUX/">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=SilvaneUX&show_icons=true&theme=bear" />
 </a>
