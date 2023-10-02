@@ -48,6 +48,7 @@ A: Sit back and relax while waiting your PR to be accepted.
 - Add yourself to CONTRIBUTE.md file
 - Became better version of yourself
 - Have Fun
+- Follow my Github, LinkedIn, and Instagram (Optional)
 
 <h3>Dont:</h3>
 
