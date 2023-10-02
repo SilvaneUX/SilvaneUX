@@ -18,8 +18,20 @@ You can click the Preview link to take a look at your changes.
 
 <h1>HACKTOBERFEST REPOSITORY</h1>
 
-[HERE](https://github.com/SilvaneUX/donut-test)
+Are you interested to participate in Hacktoberfest? Well, you can participate [HERE](https://github.com/SilvaneUX/donut-test)
 
+-FAQ:
+Q: Is there any minimum line of code to participate in this repository?
+A: Nope, there's no minimum nor maximum line of code but please dont just pull "Hello World".
+
+Q: Is it okay if want to fix and/or improve existing code?
+A: Absolutely yes.
+
+Q: Is there any maximum PR to this repo?
+A: Nope, there's no maximum PR. If you want to create another PR, please wait until your previous PR accepted or merged (which i do as fast as possible)
+
+Q: I've made PR, now what?
+A: Sit back and relax while waiting your PR to be accepted.
 
 <h1>My Github Stats</h1>
 <a href="https://github.com/SilvaneUX/">
