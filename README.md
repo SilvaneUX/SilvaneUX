@@ -38,6 +38,7 @@ Q: I've made PR, now what?
 A: Sit back and relax while waiting your PR to be accepted.
 
 <h3>Do: </h3>
+
 - Made Pull Request
 - Improve existing code
 - Add your project / old project
@@ -47,6 +48,7 @@ A: Sit back and relax while waiting your PR to be accepted.
 - Have Fun
 
 <h3>Dont:</h3>
+
 - Delete existing code
 - Create "Hello World" PR
 - Hack entire NASA Sattelite
