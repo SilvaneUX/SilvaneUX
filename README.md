@@ -21,7 +21,6 @@ You can click the Preview link to take a look at your changes.
 Are you interested to participate in Hacktoberfest? Well, you can participate [HERE](https://github.com/SilvaneUX/donut-test)
 
 <h3>FAQ: </h3>
-<br>
 Q: Is there any minimum line of code to participate in this repository?
 <br>
 A: Nope, there's no minimum nor maximum line of code but please dont just pull "Hello World".
