@@ -61,6 +61,7 @@ A: Sit back and relax while waiting your PR to be accepted.
 - Evolve backwards
 - Be Sad
 
+[![An image of @silvaneux's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/silvaneux)](https://holopin.io/@silvaneux)
 
 <h1>My Github Stats</h1>
 <a href="https://github.com/SilvaneUX/">
