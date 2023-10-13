@@ -1,6 +1,6 @@
-[![MasterHead]([](https://tenor.com/view/barbatos-gundam-gif-14978028))]
+[![MasterHead]([]())]
 
-[![MasterHead](https://tenor.com/ba0Dg.gif)](https://github.com/SilvaneUX)
+[![MasterHead](https://tenor.com/view/barbatos-gundam-gif-14978028)](https://github.com/SilvaneUX)
 
 <h1>Intro</h1>
 
