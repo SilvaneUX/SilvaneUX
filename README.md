@@ -1,4 +1,3 @@
-[![MasterHead]([]())]
 
 [![MasterHead](https://tenor.com/view/barbatos-gundam-gif-14978028)](https://github.com/SilvaneUX)
 
