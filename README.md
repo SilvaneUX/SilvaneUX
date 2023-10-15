@@ -5,7 +5,9 @@
 </a>
 </p>
 
-[![barbatos-gundam]()](https://github.com/SilvaneUX)
+<!---
+[![barbatos-gundam]()](https://github.com/SilvaneUX)]
+--->
 
 <h1>Intro</h1>
 
