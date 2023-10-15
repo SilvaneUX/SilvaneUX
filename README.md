@@ -1,5 +1,11 @@
 
-[![barbatos-gundam](https://github.com/SilvaneUX/SilvaneUX/assets/46640918/669347c7-0ec7-439f-ba8b-7e3b1a81df7b)](https://github.com/SilvaneUX)
+<p align="center">
+<a href="https://github.com/SilvaneUX/" style="text-align: center">
+  <img height=200 align="center" src="https://github.com/SilvaneUX/SilvaneUX/assets/46640918/669347c7-0ec7-439f-ba8b-7e3b1a81df7b" />
+</a>
+</p>
+
+[![barbatos-gundam]()](https://github.com/SilvaneUX)
 
 <h1>Intro</h1>
 
