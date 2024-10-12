@@ -13,7 +13,7 @@
 
 - 👋 Hi, I’m ~Legend~ @SilvaneUX a.k.a Silvanus Prihantono.
 - 👀 I’m interested in Game, AI, Multiplatform, WEB, OS, Low Level Programing languange, Computer Hardware
-- 🌱 I’m currently learning Flutter
+- 🌱 I’m currently learning Machine Learning in Computer Vision - Object Classification
 - 🤝🏼 I’m looking to ~collaborate~ learn on AI Project, OS making, Programing languange making
 - 🤙🏼 Reach me [Here](cutt.ly/sux)
 
@@ -26,6 +26,13 @@ You can click the Preview link to take a look at your changes.
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SilvaneUX&theme=bear)
 
 --->
+
+<h2>Help</h2>
+I want to finish up my studies by creating a Braille Translator. I'm still trying to use SVM with jupyter notebook. Somehow, i cant use my GPU to Train, test, and even using with Tensorflow
+im using RTX 3050 Notebook and i'm kinda stuck. Im uploading my work to my donust-test repo [HERE](https://github.com/SilvaneUX/donut-test) which is current hacktober fest repo participant.
+
+Every help matter to me, you can also discuss about it in that repo or my DM on github and Discord @s.ux
+Thank You !
 
 <h1>HACKTOBERFEST REPOSITORY</h1>
 
