@@ -15,7 +15,7 @@
 - 👀 I’m interested in Game, AI, Multiplatform, WEB, OS, Low Level Programing languange, Computer Hardware
 - 🌱 I’m currently learning Machine Learning in Computer Vision - Object Classification
 - 🤝🏼 I’m looking to ~collaborate~ learn on AI Project, OS making, Programing languange making
-- 🤙🏼 Reach me [Here](www.cutt.ly/sux)
+- 🤙🏼 Reach me [Here](https://cutt.ly/sux)
 
 <!---
 SilvaneUX/SilvaneUX is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
